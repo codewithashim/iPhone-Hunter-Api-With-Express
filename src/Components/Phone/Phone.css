@@ -1,0 +1,15 @@
+.phoneCard {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+}
+
+.phoneCard p {
+    text-align: left;
+    margin: 0.3rem;
+}
